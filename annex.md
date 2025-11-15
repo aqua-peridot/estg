@@ -1,6 +1,4 @@
-# Encoded Semi-TeleGram (ESTG)
-
-Update: To be renamed to Multi-valent Semi Telegraphic (MUVSET) encoding
+# Encoded Semi-TeleGram (ESTG) - TO BE RENAMED
 
 ## Overview
 ESTG encodes information in a symbolic semi-telegraphic form. Each ESTG code consists of words, numbers, and a defined symbol set. A message may map to multiple ESTG expressions; ambiguity is intrinsic. Example:  ** → “Revenue growth is approximately 10% heading into 2028.”
